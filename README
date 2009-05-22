@@ -1,0 +1,13 @@
+Facebook Notifier version 0.1
+
+Currently only checks for new messages/friend requests
+
+This is my first attempt at a Cocoa OS X app. Please let me know if you have any comments or suggestions!
+
+Based on example code from:
+http://files.semaja2.net/NSStatusItem%20-%20ObjC.html#TOC6944 
+
+Facebook functionality requires the use of MKAbeFook:
+See http://pointlesscrap.net/mkabefook/
+
+Make sure to add the MKAbeFook framework
